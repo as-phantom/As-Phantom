@@ -41,18 +41,18 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/bizarre-echo">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=bizarre-echo&show_icons=true&theme=react&count_private=true"/>
+  <a href="https://github.com/as-phantom">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=as-phantom&show_icons=true&theme=react&count_private=true"/>
   </a>
 </p>
 
 <br>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/bizarre-echo">
+  <a href="https://www.linkedin.com/in/as-phantom">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:stoev95pd@gmail.com">
+  <a href="mailto:as.phantom@protonmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
